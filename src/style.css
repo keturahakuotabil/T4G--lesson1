@@ -1,0 +1,77 @@
+/* img{ 
+   width: 150px; 
+   height: 150px; 
+   border: 4px solid red;
+   margin: 50px;
+} */
+ /* styling cross all pages pages */
+nav{
+   border: 2px solid black; 
+}
+nav ul{
+   display:flex;
+   justify-content:flex-end;
+   gap: 25px;
+
+}
+
+
+
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+        text-decoration: none;  
+        color: black;
+        font: size 20px;
+}
+
+/* styling end cross all pages */
+/* styling begins  */
+.img1{
+     border: 10px double darkseagreen;/*the 3 value 
+     /* margin: 10px 50px; */
+}
+
+.img2{
+      border:10px dotted  green;
+      margin: 10px 52px 20px;
+}
+
+p{
+font-family:'Trebuchet MS','Lucida Sans Unicode','Lucida Grande',Lucida;
+word-spacing: 13px;
+line-height: 1.8;
+text-align: justify;
+overflow-x:hidden;
+}
+
+button{
+  color:blueviolet;
+  background-color: aqua;
+  opacity:0.5;
+  width: 150px;
+  height: 150px;
+  border:1px solid 
+  boder-radius:10px;
+  cursor:pointer;
+
+}
+
+/* styling ending for home page */
+/* login styling begins here*/
+
+.product{
+    display: flex;
+    justify-content:space-between;
+    margin:100px 50px;
+}
+
+.product div img{
+   width:400px;
+   height:auto;
+}
+body{
+
+}
